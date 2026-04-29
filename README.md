@@ -37,8 +37,9 @@ gcc main.c queue.c -o task_manager
 
 # 執行指令
 ./task_manager.exe
+```
 
-🤖 Appendix: AI (Gemini) Prompt 使用紀錄
+## 🤖 Appendix: AI (Gemini) Prompt 使用紀錄
 本專案與 Gemini 協作開發，以下為核心開發階段的對話紀錄：
 
 1. 系統架構規劃
